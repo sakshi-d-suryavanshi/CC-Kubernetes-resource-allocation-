@@ -822,6 +822,16 @@ A NodePort Service was created, and its backend endpoints were verified. The Ngi
 
 CPU and memory utilization were monitored before and after scaling. Finally, the Service and Deployment were successfully deleted.
 
+## Screenshots
+
+<p align="center">
+  <img src="Scrrenshots/kubernetes1.jpeg" width="19%">
+  <img src="Scrrenshots/kubernetes2.jpeg" width="19%">
+  <img src="Scrrenshots/kubernetes3.jpeg" width="19%">
+  <img src="Scrrenshots/kubernetes4.jpeg" width="19%">
+  <img src="Scrrenshots/kubernetes5.jpeg" width="19%">
+</p>
+
 ## 10. Conclusion
 
 This experiment provided practical understanding of how Kubernetes manages containerized applications in a multi-node cluster.
