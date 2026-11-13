@@ -824,13 +824,15 @@ CPU and memory utilization were monitored before and after scaling. Finally, the
 
 ## Screenshots
 
-<p align="center">
-  <img src="Scrrenshots/kubernetes1.jpeg" width="19%">
-  <img src="Scrrenshots/kubernetes2.jpeg" width="19%">
-  <img src="Scrrenshots/kubernetes3.jpeg" width="19%">
-  <img src="Scrrenshots/kubernetes4.jpeg" width="19%">
-  <img src="Scrrenshots/kubernetes5.jpeg" width="19%">
-</p>
+![Kubernetes 1](Scrrenshots/kubernetes1.jpeg)
+
+![Kubernetes 2](Scrrenshots/kubernetes2.jpeg)
+
+![Kubernetes 3](Scrrenshots/kubernetes3.jpeg)
+
+![Kubernetes 4](Scrrenshots/kubernetes4.jpeg)
+
+![Kubernetes 5](Scrrenshots/kubernetes5.jpeg)
 
 ## 10. Conclusion
 
